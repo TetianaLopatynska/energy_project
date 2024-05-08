@@ -105,4 +105,4 @@ ORDER BY
 ```
 
 ```python
-Jupiter notebook is uploaded [Energy_project.ipynb](https://github.com/TetianaLopatynska/energy_project/blob/main/Energy_project.ipynb)
+Jupiter notebook is uploaded [Energy_project.ipynb](Energy_project.ipynb)
