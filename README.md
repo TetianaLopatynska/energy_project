@@ -104,7 +104,7 @@ ORDER BY
     Country;
 ```
 
-```python
+### Python
 Jupiter notebook is uploaded [Energy_project.ipynb](Energy_project.ipynb)
 
 ### Energy production dashboard
