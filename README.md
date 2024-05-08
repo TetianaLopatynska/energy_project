@@ -106,3 +106,6 @@ ORDER BY
 
 ```python
 Jupiter notebook is uploaded [Energy_project.ipynb](Energy_project.ipynb)
+
+### Energy production dashboard
+[Tableau Dashboard_European_Electricity_Production](https://public.tableau.com/app/profile/tetiana.lopatynska/viz/EuropeanEnergyProductionDashboard/PrimaryDashboard)
