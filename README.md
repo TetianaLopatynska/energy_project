@@ -109,3 +109,6 @@ Jupiter notebook is uploaded [Energy_project.ipynb](Energy_project.ipynb)
 
 ### Energy production dashboard
 [Tableau Dashboard_European_Electricity_Production](https://public.tableau.com/app/profile/tetiana.lopatynska/viz/EuropeanEnergyProductionDashboard/PrimaryDashboard)
+
+### Video presentation
+[Energy_project](https://drive.google.com/file/d/1iRjXTvMeb-eUhx_yzFIOsmK4PIWiuIRS/view?usp=sharing)
